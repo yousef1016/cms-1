@@ -40,7 +40,7 @@ $writers = $writer->fetchAll(PDO::FETCH_ASSOC);
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
-<!-- Github pull -->
+
 <body>
 
     <div class="container">
