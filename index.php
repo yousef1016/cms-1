@@ -1,3 +1,4 @@
+<!-- Hi this is the test of changes -->
 <?php
 include "database/db.php";
 
